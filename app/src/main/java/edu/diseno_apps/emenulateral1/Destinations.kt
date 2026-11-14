@@ -1,5 +1,7 @@
 package edu.diseno_apps.emenulateral1
 
+// Cambio de prueba para la práctica de Git
+
 object Destinations {
     const val INICIO = "inicio"
     const val CONFIGURACION = "configuracion"
