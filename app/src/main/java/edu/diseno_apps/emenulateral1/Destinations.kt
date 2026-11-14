@@ -1,5 +1,8 @@
 package edu.diseno_apps.emenulateral1
 
+// Cambio de prueba para la práctica de Git
+// Segundo cambio en la rama feature
+
 object Destinations {
     const val INICIO = "inicio"
     const val CONFIGURACION = "configuracion"
